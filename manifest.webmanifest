@@ -3,7 +3,7 @@
   "short_name": "Lucas Osmond's App",
   "description": "Github Page for Lucas Osmond's App",
   "scope": "/ICS2O-Unit-1-08-Lucas-Osmond/",
-  "start_url": "/ICS2O-Unit-1-08-Lucas-Osmond/",
+  "start_url": "/",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "display": "standalone", 
